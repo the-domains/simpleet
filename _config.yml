@@ -24,6 +24,10 @@ cta:
   domain: null
   bucket: null
   version: null
+navigation:
+  - name: Company
+    url: 'http://simpleet.com'
+    type: external
 favicon: null
 title: Simpleet & The Grid
 description: Made with The Grid
