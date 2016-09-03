@@ -1,20 +1,4 @@
-name: Simpleet
-favicon: null
-layout_spectrum: 0.88003
 typography_spectrum: 0.20715153845958412
-title: 'Simpleet & The Grid'
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#f8f8f8'
@@ -26,4 +10,21 @@ color:
   lightness: 0.6801770213060081
   saturation: 0.9149102126248181
   rhythmicContrast: 0.18901853589341044
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.88003
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Simpleet
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: Simpleet & The Grid
+description: Made with The Grid
 purpose: []
